@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&nbsp;Mohammed Imran
+### &nbsp;Mohammed Imran
 
 ### 🛠 &nbsp;What I am learning an Using:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
