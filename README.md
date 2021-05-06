@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Mohammed Imran
 Currently Studying Computer Science at Aston University.
-<hr>
+</hr>
 ### 🛠 &nbsp;What I am learning and Using:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -28,7 +28,7 @@ Currently Studying Computer Science at Aston University.
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
-<hr>
+</hr>
 ### ⚙️ &nbsp;Github Analytics
 <p align="left">
 <a href="https://github.com/mdimran24">
