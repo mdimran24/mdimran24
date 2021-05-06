@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Mohammed Imran
 Currently Studying Computer Science at Aston University.
-### 🛠 &nbsp;What I am learning an Using:
+### 🛠 &nbsp;What I am learning and Using:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
