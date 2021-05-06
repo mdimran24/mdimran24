@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### &nbsp;Mohammed Imran
+### Mohammed Imran
 Currently Studying Computer Science at Aston University.
 ### 🛠 &nbsp;What I am learning an Using:
 
