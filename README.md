@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Mohammed Imran
+
 🛠️ What I am learning and using: 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -29,6 +30,12 @@ Mohammed Imran
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 https://github-readme-stats.vercel.app/api?username=mdimran24&show_icons=true&theme=radical
+<p align="center">
+<a href="https://github.com/mdimran24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdimran24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdimran24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <a href="https://www.linkedin.com/in/mohammed-imran-a76998168/"><img src="https://img.shields.io/badge/-Mohammed%20Imran-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mohammedimran2407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
