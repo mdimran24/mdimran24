@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### &nbsp;Mohammed Imran
-
+Currently Studying Computer Science at Aston University.
 ### 🛠 &nbsp;What I am learning an Using:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
