@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Mohammed Imran
-Currently Studying Computer Science at Aston University.
+<p>Currently Studying Computer Science at Aston University.</p>
 <hr>
 
 ### 🛠 &nbsp;What I am learning and Using:
